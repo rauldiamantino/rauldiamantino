@@ -2,5 +2,5 @@
 
 - I’m @rauldiamantino
 - I’m interested in Web Development
-- I’m currently learning JavaScript, TailwindCss, Sass and Design.
+- I’m currently learning TypeScript
 - How to reach me https://www.linkedin.com/in/rauldiamantino/
